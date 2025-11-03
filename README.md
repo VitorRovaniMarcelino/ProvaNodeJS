@@ -18,11 +18,15 @@ O objetivo do projeto é aprendizado e prática de criação de APIs com Node.js
   
 ## ▶️ Como executar
 1. Instale as dependências:
-   npm install express cors
+```bash
+npm install express cors
+```
 
-2. Execute o projeto:
-   cd backend
-   node server.js
+3. Execute o projeto:
+```bash
+cd backend
+node server.js
+```
 
 ## 🎯 Objetivo
 Projeto criado exclusivamente para fins de estudo e avaliação, praticando operações CRUD básicas utilizando Node.js e JSON.
